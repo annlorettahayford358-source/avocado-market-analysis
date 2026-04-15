@@ -1,5 +1,3 @@
-# avocado-market-analysis
-How do avocado prices, volume sold, seasonality, and region affect sales performance, and how can retailers optimize pricing and supply decisions?
 # 🥑 Avocado Market Analysis
 
 ## 📌 Overview
@@ -23,4 +21,4 @@ To understand how pricing, seasonality, and region impact demand.
 Kaggle - Avocado Prices Dataset
 
 ## 🚀 Author
-Laurttah Hayford
+Lauretta Hayford
